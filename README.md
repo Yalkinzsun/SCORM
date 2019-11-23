@@ -3,7 +3,7 @@ SCORM-пакет, собранный с помощью программы Course
 
 - [Отчёт](https://github.com/Yalkinzsun/SCORM/blob/master/SCORM_report.pdf)
 
-- Тестовый мудл курс: [herzenict4.moodlecloud.com](https://herzenict4.moodlecloud.com/login/index.php)
+- Тестовый Moodle-курс: [herzenict4.moodlecloud.com](https://herzenict4.moodlecloud.com/login/index.php)
 
 - [SCORM-пакет](https://github.com/Yalkinzsun/SCORM/blob/master/SCORM-VKR-Kotlin-v2.zip) 
 
